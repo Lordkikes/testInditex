@@ -48,10 +48,15 @@ Desarrollar unos test al endpoint rest que validen las siguientes peticiones al 
 
 ## Tecnologías
 
-- Java
+- Java 11
 - Spring (Core + Boot + Data + Web )
 - Hibernate + H2 en memoria
-- Lombok
+- Lombok 
+
+# Como iniciar la aplicaciomn:
+- **Maven install:**  `mvn install`
+- **Web App:** `mvn spring-boot:run`.
+
 
 ```sh
  Probando la aplicación
