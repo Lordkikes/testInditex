@@ -53,7 +53,7 @@ Desarrollar unos test al endpoint rest que validen las siguientes peticiones al 
 - Hibernate + H2 en memoria
 - Lombok 
 
-# Como iniciar la aplicaciomn:
+# Como iniciar la aplicacion:
 - **Maven install:**  `mvn install`
 - **Web App:** `mvn spring-boot:run`.
 
